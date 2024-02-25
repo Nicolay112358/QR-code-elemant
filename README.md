@@ -1,1 +1,1 @@
-# QR-code-elemant
+# QR-code-element
